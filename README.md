@@ -1,1 +1,1 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ahmaidi)](https://github.com/mohouyizme/1337-readme)
+[![ahmaidi's 42 stats](https://badge42.vercel.app/api/v2/cl1xafkoi007809k1x1xae2uh/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)
