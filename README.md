@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 , I'm Ahmed Hmaidi</h1>
 
- <div align="center">
-<!--   <a href="https://github.com/ahmaidi/ahmaidi">
-  <img src="https://badge.mediaplus.ma/greenbinary/hamaarou" alt="hamaarou's 42 stats" />
-  </a> -->
+<div align="center">
+    <br clear="both">
+    <img src="https://badge.mediaplus.ma/greenbinary/ahmaidi"  alt="ahmaidi's 42 stats" width="80%"/>
+    <br clear="both">
 </div>
 
 
