@@ -111,6 +111,12 @@ I have set clear, personal goals, a pact I've made with my inner self, and my un
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 	</a>
  </td>
+ <td align='center'>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+	</a>
+ </td>
+ 
 <tr/>
 	<!-- ROW 4-->
 <tr>
