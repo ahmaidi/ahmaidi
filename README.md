@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋 , I'm Ahmed Hmaidi</h1>
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
-![License](https://img.shields.io/github/license/USERNAME/REPO)
 
 <div align="center">
     <br clear="both">
