@@ -1,7 +1,3 @@
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
-![License](https://img.shields.io/github/license/USERNAME/REPO)
-![Build](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)
-
 <h1 align="center">Hi there 👋 , I'm Ahmed Hmaidi</h1>
 
 <div align="center">
@@ -171,3 +167,6 @@ I have set clear, personal goals, a pact I've made with my inner self, and my un
 <img alt="ahmaidi's followers" src="https://img.shields.io/github/followers/ahmaidi?color=blueviolet" />
 <img alt="ahmaidi's stars" src="https://img.shields.io/github/stars/ahmaidi?color=blueviolet" />
 </p>
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![License](https://img.shields.io/github/license/USERNAME/REPO)
+
