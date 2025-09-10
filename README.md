@@ -116,20 +116,21 @@ I have set clear, personal goals, a pact I've made with my inner self, and my un
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 	</a>
  </td>
- 
-<tr/>
-	<!-- ROW 4-->
-<tr>
-    <td align='center' width="190">
+  <td align='center' width="190">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" 		target="_blank" rel="noreferrer">
     </td>
+		<td align='center' width="190" >
+        <img src="https://img.icons8.com/color/2x/command-line.png" alt="gitub" width="40" height="40">
+    </td>
+<tr/>
+	<!-- ROW 4-->
+<tr>
+   
     <td align='center' width="190">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="command-line" width="40" height="40">
     </td>
-    <td align='center' width="190" >
-        <img src="https://img.icons8.com/color/2x/command-line.png" alt="gitub" width="40" height="40">
-    </td>
+    
 </tr>
 <!-- ROW 5-->
 <tr>
