@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![License](https://img.shields.io/github/license/USERNAME/REPO)
+![Build](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)
+
 <h1 align="center">Hi there 👋 , I'm Ahmed Hmaidi</h1>
 
 <div align="center">
